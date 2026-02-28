@@ -4,17 +4,12 @@ Music producer, creative technologist, and audio-visual developer. Building inte
 
 ## Featured Projects
 
-### [travisbreaks-site](https://github.com/travisbreaks/travisbreaks-site)
-Portfolio and creative showcase. Single-file architecture with Three.js audio visualization, GSAP scroll physics, headless SoundCloud integration, and 60+ tracks.
-
-**[travisbreaks.org](https://travisbreaks.org)**
-
 ### [Anemone Chorales](https://github.com/travisbreaks/anemone-chorales)
 Real-time 3D audio visualization engine. A bioluminescent sea anemone driven by FFT frequency analysis, custom GLSL shaders, and a depth-based energy model with 7 nautical zones.
 
 **[Live Demo](https://travisbreaks.org/share/parse-and-garner/)**
 
-### [Kimi Agent Mandala](https://github.com/travisbreaks/Kimi_Agent_Mandala)
+### [Kimi Agent Mandala](https://github.com/travisbreaks/kimi-agent-mandala)
 Interactive 3D Sri Yantra sacred geometry visualization. 50,000 particles that build on scroll, explode on scroll, and respond to hover and click. Adaptive GPU quality detection.
 
 **[Live Demo](https://travisbreaks.org/research/kimi-agent-mandala/)**
@@ -22,11 +17,16 @@ Interactive 3D Sri Yantra sacred geometry visualization. 50,000 particles that b
 ### [Creative Lab](https://github.com/travisbreaks/creative-lab)
 HIGGS-BOSON: a vertical particle collider sandbox. Scroll-velocity physics engine with spaghettification text effects, R3F 3D artifacts, and GSAP Flip isotope grids.
 
-### [Timeline](https://github.com/travisbreaks/timeline)
-Scroll-driven biographical timeline. 5 narrative acts across 6 parallel domain tracks with camera zoom, SVG wipe-reveal animations, and spring-interpolated phase navigation.
-
 ### [Deep Cuts](https://github.com/travisbreaks/deep-cuts)
 AI-powered media intelligence pipeline. Two-pass LLM analysis of YouTube and podcast content with pgvector semantic search and template-based infographic generation.
+
+### [Transmissions](https://github.com/travisbreaks/transmissions)
+Curated archive of philosophical essays on AI, consciousness, grief, and creative process. Astro 5 SSG with confidence scoring and semantic tag filtering.
+
+**[Live Site](https://travisbreaks.org/transmissions/)**
+
+### [Sovereign Matrix](https://github.com/travisbreaks/sovereign-matrix)
+Dynamic project prioritization system with weighted scoring across 4 dimensions. Cyberpunk-themed React dashboard with animated sorting and real-time visualization.
 
 ## Tech
 
