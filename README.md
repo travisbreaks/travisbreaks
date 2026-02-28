@@ -1,20 +1,41 @@
 # travisBREAKS
 
-Music producer, creative technologist, experimental web developer.
+Music producer, creative technologist, and audio-visual developer. Building interactive experiences at the intersection of sound, code, and spatial computing.
 
-Building at the intersection of audio, visual art, and code. Everything ships from a single monorepo.
+## Featured Projects
 
-## What I Build
+### [travisbreaks-site](https://github.com/travisbreaks/travisbreaks-site)
+Portfolio and creative showcase. Single-file architecture with Three.js audio visualization, GSAP scroll physics, headless SoundCloud integration, and 60+ tracks.
 
-**Audio-visual experiments** using Three.js, R3F, GLSL shaders, and Web Audio API. Scroll-driven physics, reactive 3D visualizers, algorithmic composition with SuperCollider.
+**[travisbreaks.org](https://travisbreaks.org)**
 
-**Production tools** like project scoring dashboards, API usage trackers, and voice-first fitness apps.
+### [Anemone Chorales](https://github.com/travisbreaks/anemone-chorales)
+Real-time 3D audio visualization engine. A bioluminescent sea anemone driven by FFT frequency analysis, custom GLSL shaders, and a depth-based energy model with 7 nautical zones.
 
-**Music** under [travisBREAKS](https://soundcloud.com/travisbreaks) across hip-hop, electronic, ambient, and experimental genres.
+**[Live Demo](https://travisbreaks.org/share/parse-and-garner/)**
+
+### [Kimi Agent Mandala](https://github.com/travisbreaks/Kimi_Agent_Mandala)
+Interactive 3D Sri Yantra sacred geometry visualization. 50,000 particles that build on scroll, explode on scroll, and respond to hover and click. Adaptive GPU quality detection.
+
+**[Live Demo](https://travisbreaks.org/research/kimi-agent-mandala/)**
+
+### [Creative Lab](https://github.com/travisbreaks/creative-lab)
+HIGGS-BOSON: a vertical particle collider sandbox. Scroll-velocity physics engine with spaghettification text effects, R3F 3D artifacts, and GSAP Flip isotope grids.
+
+### [Timeline](https://github.com/travisbreaks/timeline)
+Scroll-driven biographical timeline. 5 narrative acts across 6 parallel domain tracks with camera zoom, SVG wipe-reveal animations, and spring-interpolated phase navigation.
+
+### [Deep Cuts](https://github.com/travisbreaks/deep-cuts)
+AI-powered media intelligence pipeline. Two-pass LLM analysis of YouTube and podcast content with pgvector semantic search and template-based infographic generation.
+
+## Tech
+
+React, Three.js, React Three Fiber, GLSL, Web Audio API, GSAP, Astro, Next.js, SuperCollider, TypeScript, Tailwind CSS, Vite, Python, PostgreSQL
 
 ## Links
 
-- [travisbreaks.org](https://travisbreaks.org) - Portfolio
-- [travisbreaks.org/transmissions](https://travisbreaks.org/transmissions/) - Blog
-- [horny-toad.com](https://horny-toad.com) - Game studio
-- [realmskeep.com](https://realmskeep.com) - Fantasy merch
+- [travisbreaks.org](https://travisbreaks.org) : Portfolio
+- [travisbreaks.org/transmissions](https://travisbreaks.org/transmissions/) : Blog
+- [SoundCloud](https://soundcloud.com/travisbreaks) : Music
+- [horny-toad.com](https://horny-toad.com) : Game studio
+- [realmskeep.com](https://realmskeep.com) : Fantasy merch
